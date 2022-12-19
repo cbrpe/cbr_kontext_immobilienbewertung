@@ -2,10 +2,10 @@ from random import randint
 from datetime import datetime
 
 FEHLER_TEXTE = ["", "k.A.", "kA  Wohnfläche  ", "kA  Grundstücksfl  ", "Straße nicht freigegeben"]
-CONDITIONS = {'renoviert': 0, 'gepflegt': 1,  'teilsaniert': 2, 'renovierungsbedürftig': 3}
-BASEMENTS = {'voll unterkellert': 2, 'teilweise unterkellert': 1, 'nicht unterkellert': 0}
-EFFICIENCY_RAINGS = {'A++': 9, 'A+': 8, 'A': 7, 'B': 6, 'C': 5, 'D': 4, 'E': 3, 'F': 2, 'G': 1, 'H': 0}
-CATEGORIES = ['reihenhaus', 'villa', 'einfamilienhaus', 'doppelhaushälfte', 'bungalow', 'mehrfamilienhaus']
+ZUSTAND_ARTEN = {'renoviert': 0, 'gepflegt': 1,  'teilsaniert': 2, 'renovierungsbedürftig': 3}
+KELLER_ARTEN = {'voll unterkellert': 2, 'teilweise unterkellert': 1, 'nicht unterkellert': 0}
+ENERGIEEFFIZIENZ_ARTEN = {'A++': 9, 'A+': 8, 'A': 7, 'B': 6, 'C': 5, 'D': 4, 'E': 3, 'F': 2, 'G': 1, 'H': 0}
+KATEGORIE_ARTEN = ['reihenhaus', 'villa', 'einfamilienhaus', 'doppelhaushälfte', 'bungalow', 'mehrfamilienhaus']
 
 def generate_id(n:int = 8) -> int:
     n = 8
@@ -25,38 +25,38 @@ def transform(value: any, attr: str, ):
     else:
         if attr == 'zimmer':
             value = float(str(value).replace(',', '.'))
-        elif attr == 'condition':
+        elif attr == 'zustand':
             if type(value) == str:
                 check = False
                 if 'projektiert' in value:
                     value = 0
                     check = True
                 else:
-                    for condition in CONDITIONS.keys():
+                    for condition in ZUSTAND_ARTEN.keys():
                         if condition in value:
-                            value = CONDITIONS[condition]
+                            value = ZUSTAND_ARTEN[condition]
                             check = True
                             break
                 if not check:
                     value = None
-        elif attr == 'basement':
+        elif attr == 'keller':
             if type(value) == str:
                 check = False
                 value = value.lower()
-                for basement in BASEMENTS.keys():
-                    if basement in value:
-                        value = BASEMENTS[basement]
+                for keller in KELLER_ARTEN.keys():
+                    if keller in value:
+                        value = KELLER_ARTEN[keller]
                         check = True
                         break
                 if not check:
                     value = None
-        elif attr == 'efficiency_rating':
+        elif attr == 'energieeffizienz':
             if type(value) == str:
-                if value in EFFICIENCY_RAINGS.keys():
-                    value = EFFICIENCY_RAINGS[value]
+                if value in ENERGIEEFFIZIENZ_ARTEN.keys():
+                    value = ENERGIEEFFIZIENZ_ARTEN[value]
                 else:
                     value = None
-        elif attr == 'year':
+        elif attr == 'baujahr':
             value = str(value)
             value = value.lower()
 
@@ -79,13 +79,13 @@ def transform(value: any, attr: str, ):
                 value = int(float(value))
             except ValueError:
                 value = None  
-        elif attr == 'category':
+        elif attr == 'kategorie':
             if type(value) == str:
                 check = False
                 value = value.lower()
-                for category in CATEGORIES:
-                    if category in value:
-                        value = category
+                for kategorie in KATEGORIE_ARTEN:
+                    if kategorie in value:
+                        value = kategorie
                         check = True
                         break
 
