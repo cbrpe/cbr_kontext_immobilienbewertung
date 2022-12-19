@@ -1,0 +1,57 @@
+wohnflaeche;grundstueckflaeche;zimmer;category;basement;year;efficiency_rating;condition;floors;terrace;type;price;id;plz;street;city;district;kontextlabel;kontextWert
+127.0;1856.0;6.0;einfamilienhaus;1.0;1965.0;1.0;1.0;1 Geschoss;Terrasse, Garten, Wintergarten ;Massivhaus;350000.0;17019168;31582.0;Straße nicht freigegeben;Nienburg;Weser;9;2100
+200.0;719.0;6.0;einfamilienhaus;2.0;2011.0;7.0;1.0;2 ;Terrasse, Garten, Balkon ;Massivhaus;599000.0;31139000;49152.0;Bad Essen;BadEssen;Wittlage;6;2550
+95.0;453.0;4.0;bungalow;0.0;1999.0;3.0;1.0;1 Geschoss;Terrasse, Garten ;Massivhaus;269000.0;12396584;31311.0;Straße nicht freigegeben;Uetze;Dedenhausen;6;2400
+263.0;1500.0;8.0;bungalow;0.0;1980.0;4.0;1.0;2 ;Terrasse, Garten ;Massivhaus;499000.0;76515662;21706.0;Ziegelstraße Ziegelstraße;Drochtersen;Assel;0;2250
+195.0;801.0;6.0;einfamilienhaus;0.0;2000.0;6.0;1.0;2 ;Terrasse, Garten, Wintergarten ;Massivhaus;515000.0;50138883;37133.0;Straße nicht freigegeben;Friedland;Reckershausen;2;2750
+204.0;4524.0;5.0;einfamilienhaus;0.0;2018.0;3.0;1.0;2 ;Terrasse ;Massivhaus;419000.0;94034100;21770.0;Straße nicht freigegeben;Mittelstenahe;Nordahn;0;1450
+186.0;730.0;7.0;einfamilienhaus;2.0;1986.0;1.0;1.0;2 ;Terrasse, Balkon ;Massivhaus;277000.0;76918813;31863.0;Straße nicht freigegeben;Coppenbrügge;Bessingen;1;1650
+206.0;805.0;6.0;einfamilienhaus;0.0;2016.0;3.0;1.0;2.0;Terrasse, Garten, Balkon ;Massivhaus;549000.0;50802927;29614.0;Straße nicht freigegeben;Soltau;;5;2500
+136.0;1808.0;6.0;einfamilienhaus;1.0;2003.0;1.0;3.0;2 ;Terrasse, Garten ;Massivhaus;199000.0;48011869;27449.0;Straße nicht freigegeben;Kutenholz;;1;2200
+260.0;467.0;7.0;mehrfamilienhaus;1.0;1990.0;2.0;1.0;2.0;Terrasse, Garten, Loggia ;Massivhaus;238500.0;35032849;38259.0;Straße nicht freigegeben;Salzgitter;Ringelheim;10;2100
+110.0;738.0;4.0;einfamilienhaus;1.0;1927.0;1.0;0.0;2.0;Terrasse, Garten ;Massivhaus;239000.0;47208988;26340.0;Straße nicht freigegeben;Zetel;;5;1650
+135.0;419.0;4.0;einfamilienhaus;0.0;2013.0;6.0;1.0;2 ;Terrasse, Garten, Wintergarten ;Massivhaus;519000.0;18297151;49811.0;Straße nicht freigegeben;Lingen;EmsBrögbern;6;2650
+158.0;632.0;3.0;bungalow;0.0;2012.0;6.0;1.0;2 ;Terrasse, Garten ;Massivhaus;569000.0;47643798;38524.0;Straße nicht freigegeben;Sassenburg;Triangel;1;2750
+300.0;918.0;8.0;bungalow;2.0;2969.0;0.0;3.0;1 Geschoss;Terrasse, Garten, Gartenanteil, Gartenmitbenutzung ;Massivhaus;279900.0;24432974;29378.0;Amselweg 1;Wittingen;;0;1500
+188.0;1205.0;6.0;bungalow;0.0;2000.0;3.0;1.0;2 ;Terrasse ;Massivhaus;595000.0;77722403;29378.0;Franz-Schubert-Weg 5;Wittingen;;0;1500
+167.0;955.0;5.0;einfamilienhaus;2.0;2008.0;4.0;1.0;3 ;Terrasse, Garten ;Massivhaus;490000.0;85547985;29378.0;Wilhelm-Busch-Str. 39;Wittingen;;0;1500
+258.0;5000.0;9.0;mehrfamilienhaus;1.0;1996.0;4.0;1.0;2 ;Terrasse, Garten ;Massivhaus;564500.0;94540252;49699.0;Straße nicht freigegeben;Lindern;OldenburgStühlenfeld;1;1950
+194.0;1512.0;5.0;einfamilienhaus;0.0;2022.0;8.0;0.0;2 ;Terrasse ;Massivhaus;1590000.0;76769408;21224.0;Straße nicht freigegeben;Rosengarten;Eckel;11;4500
+124.0;750.0;4.0;einfamilienhaus;0.0;2022.0;8.0;0.0;2 ;Terrasse, Gartenanteil ;Massivhaus;775000.0;11082284;21224.0;Straße nicht freigegeben;Rosengarten;Eckel;11;4500
+118.0;791.0;4.0;einfamilienhaus;1.0;2010.0;3.0;0.0;1 Geschoss;Terrasse, Garten ;Massivhaus;395000.0;23683124;27356.0;Buchenweg 8;Rotenburg;;5;2800
+93.0;382.0;4.0;doppelhaushälfte;2.0;1993.0;3.0;0.0;1 Geschoss;Terrasse, Garten ;Massivhaus;298000.0;23842180;27356.0;Wilhelm-Richard-Str. 17;Rotenburg;;5;2800
+139.0;784.0;6.0;mehrfamilienhaus;2.0;1963.0;0.0;1.0;2.0;Garten, Balkon ;Massivhaus;479000.0;65837000;31303.0;Straße nicht freigegeben;Burgdorf;;6;3150
+245.0;657.0;7.0;einfamilienhaus;0.0;2005.0;5.0;0.0;3 ;Terrasse, Garten ;Massivhaus;605000.0;29206432;49762.0;Straße nicht freigegeben;Lathen;Kathen-Frackel;1;2350
+138.0;1136.0;5.0;einfamilienhaus;2.0;1989.0;3.0;1.0;1 Geschoss;Terrasse, Loggia ;Massivhaus;729000.0;55594153;21218.0;Straße nicht freigegeben;Seevetal;Emmelndorf;11;4250
+98.0;546.0;3.0;bungalow;0.0;2015.0;5.0;1.0;1 Geschoss;Terrasse, Garten ;Massivhaus;349000.0;34727144;27804.0;Straße nicht freigegeben;Berne;Bardenfleth;5;1750
+188.0;506.0;8.0;einfamilienhaus;1.0;1991.0;1.0;1.0;2 ;Terrasse, Garten ;Massivhaus;120000.0;38252410;31084.0;Straße nicht freigegeben;Freden;LeineMeimerhausen;1;950
+188.0;3242.0;7.0;einfamilienhaus;0.0;1998.0;7.0;1.0;2.0;Terrasse, Garten, Balkon ;Massivhaus;648000.0;31341306;27211.0;Carl-Zeiss-Str. ;Bassum;Osterbinde;5;2250
+125.0;320.0;5.5;doppelhaushälfte;2.0;1982.0;4.0;1.0;2.0;Terrasse, Garten, Balkon ;Massivhaus;350000.0;70804168;26203.0;Straße nicht freigegeben;Wardenburg;Wardenburg II-Ost;6;2750
+137.0;703.0;8.0;mehrfamilienhaus;1.0;2000.0;5.0;2.0;2 ;Terrasse, Balkon ;Massivhaus;660000.0;21709657;26757.0;Straße nicht freigegeben;Borkum;;4;4600
+230.0;1044.0;5.0;einfamilienhaus;0.0;1999.0;5.0;1.0;2 ;Terrasse, Loggia, Wintergarten ;Fertighaus;395000.0;56170765;28879.0;Straße nicht freigegeben;Grasberg;;1;2450
+155.0;1022.0;5.0;einfamilienhaus;2.0;1995.0;1.0;3.0;2.0;Terrasse, Garten, Balkon, Loggia ;Massivhaus;467000.0;15205338;21680.0;Straße nicht freigegeben;Stade;;9;3050
+140.0;681.0;6.0;einfamilienhaus;2.0;1990.0;3.0;3.0;2.0;Terrasse, Garten ;Massivhaus;389000.0;63396267;21680.0;Straße nicht freigegeben;Stade;;9;3050
+238.0;1123.0;6.0;einfamilienhaus;0.0;1981.0;2.0;0.0;1 Geschoss;Terrasse, Garten ;Massivhaus;690000.0;47461215;21279.0;Straße nicht freigegeben;Appel;;2;3700
+159.0;517.0;7.0;mehrfamilienhaus;2.0;2002.0;0.0;3.0;3.0;Terrasse, Garten ;Massivhaus;99000.0;12276341;31073.0;Straße nicht freigegeben;Delligsen;;5;1400
+143.0;1002.0;6.0;einfamilienhaus;2.0;1967.0;1.0;1.0;2.0;Terrasse, Garten ;Massivhaus;243000.0;66503898;31691.0;Straße nicht freigegeben;Seggebruch;;10;1800
+190.0;1404.0;7.0;einfamilienhaus;0.0;1996.0;2.0;1.0;2 ;Terrasse, Garten, Wintergarten ;Massivhaus;325000.0;15623311;21775.0;Straße nicht freigegeben;Steinau;;0;2150
+180.0;1400.0;9.0;mehrfamilienhaus;2.0;2004.0;2.0;1.0;2 ;Terrasse, Garten ;Massivhaus;255000.0;28820283;37170.0;Straße nicht freigegeben;Uslar;;5;1300
+123.5;1200.0;5.5;einfamilienhaus;0.0;2007.0;5.0;1.0;1 Geschoss;Terrasse, Garten ;Passivhaus;589000.0;38843243;21271.0;Straße nicht freigegeben;Asendorf;;2;3500
+170.0;591.0;6.0;einfamilienhaus;0.0;2003.0;4.0;1.0;2 ;Terrasse, Garten, Loggia ;Massivhaus;449000.0;23084688;49584.0;Willy-Batta-Straße 29;Fürstenau;;5;2050
+122.0;829.0;4.0;einfamilienhaus;0.0;1980.0;4.0;1.0;1 Geschoss;Terrasse, Balkon ;Fertighaus;569000.0;20924839;21244.0;Straße nicht freigegeben;BuchholzinderNordheide;;10;4050
+133.0;629.0;4.0;mehrfamilienhaus;0.0;2020.0;5.0;1.0;1 Geschoss;Terrasse, Garten, Gartenmitbenutzung ;Massivhaus;379000.0;99809135;21385.0;Straße nicht freigegeben;Oldendorf;LuheWetzen;1;2750
+150.0;903.0;5.0;einfamilienhaus;1.0;2003.0;3.0;1.0;2.0;Terrasse, Gartenmitbenutzung, Balkon ;Massivhaus;478000.0;88221697;27305.0;Homfelder Berg 00;BruchhausenVilsen;Homfeld;1;2100
+221.0;604.0;4.0;einfamilienhaus;2.0;1969.0;2.0;1.0;2.0;Terrasse, Garten, Wintergarten ;Massivhaus;384000.0;69767042;27389.0;Im Heidhorn  6;Lauenbrück;;1;2550
+190.0;17000.0;6.0;mehrfamilienhaus;1.0;1930.0;0.0;2.0;1 Geschoss;Terrasse, Garten, Wintergarten ;Massivhaus;985000.0;99892145;29640.0;Straße nicht freigegeben;Schneverdingen;Großenwede;5;3400
+204.34;711.0;7.0;mehrfamilienhaus;0.0;1994.0;4.0;1.0;2.0;Terrasse, Garten, Balkon ;Massivhaus;598000.0;46951288;27474.0;Straße nicht freigegeben;Cuxhaven;;5;2550
+178.09;266.0;4.0;einfamilienhaus;1.0;2020.0;1.0;1.0;2.0;Balkon ;Massivhaus;120000.0;85869614;31061.0;Straße nicht freigegeben;Alfeld;Leine;9;1400
+258.0;5000.0;9.0;mehrfamilienhaus;1.0;1996.0;4.0;1.0;2;Terrasse, Garten ;Massivhaus;549500.0;86730198;49699.0;Straße nicht freigegeben;Lindern;OldenburgStühlenfeld;1;1950
+155.0;1050.0;6.0;mehrfamilienhaus;2.0;1965.0;0.0;1.0;1 Geschoss;Terrasse, Garten ;Massivhaus;339000.0;41080153;29575.0;Straße nicht freigegeben;Altenmedingen;;1;2550
+202.0;577.0;5.0;einfamilienhaus;0.0;2009.0;6.0;1.0;1 Geschoss;Terrasse, Garten, Balkon ;Massivhaus;849000.0;90866090;21391.0;Straße nicht freigegeben;Reppenstedt;;10;3700
+200.0;700.0;6.0;einfamilienhaus;0.0;2009.0;7.0;1.0;2.0;Terrasse, Garten, Balkon ;Massivhaus;869000.0;37884183;21357.0;Straße nicht freigegeben;Bardowick;;10;3200
+120.0;800.0;4.0;doppelhaushälfte;0.0;2022.0;7.0;0.0;2 ;Terrasse, Garten ;KfW 55, Massivhaus;527500.0;31182239;21256.0;Straße nicht freigegeben;Handeloh;;2;4250
+204.0;1285.0;7.0;doppelhaushälfte;2.0;2019.0;5.0;1.0;2 ;Terrasse, Garten ;Massivhaus;395000.0;12469086;31246.0;Straße nicht freigegeben;Ilsede;Adenstedt;10;2050
+262.0;846.0;6.0;einfamilienhaus;1.0;1978.0;5.0;1.0;3 ;Terrasse, Garten, Balkon, Wintergarten ;Massivhaus;255000.0;39169877;49767.0;Straße nicht freigegeben;Twist;Bült;1;2250
+176.0;671.0;5.0;einfamilienhaus;1.0;2013.0;0.0;1.0;1 Geschoss;Terrasse, Garten, Wintergarten ;Massivhaus;424000.0;45506300;27753.0;Straße nicht freigegeben;Delmenhorst;Deichhorst;10;2650
+142.0;622.0;6.0;einfamilienhaus;1.0;1998.0;5.0;1.0;2 ;Terrasse, Gartenanteil, Balkon ;Massivhaus;599000.0;50597804;21682.0;Straße nicht freigegeben;Stade;;9;3050
+180.85;1387.0;6.0;einfamilienhaus;0.0;1990.0;2.0;1.0;1 Geschoss;Terrasse, Garten ;Massivhaus;349000.0;69583253;31832.0;Straße nicht freigegeben;Springe;Holtensen;6;2200
