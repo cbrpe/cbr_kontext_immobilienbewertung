@@ -1,4 +1,4 @@
-wohnflaeche;grundstueckflaeche;zimmer;category;basement;year;efficiency_rating;condition;kontextWert;price1;price2;priceDelta
+wohnflaeche;grundstueckflaeche;anz_zimmer;kategorie;keller;baujahr;energieeffizienz;zustand;kontextWert;price1;price2;priceDelta
 1.19;-1467.01;0.0;0;0;3;-2;2;50;42000;285000;-243000
 1.2;-1467.0;0.0;0;0;3;-2;2;50;42000;285000;-243000
 -10.0;-99.0;-1.0;0;-1;379;1;0;-100;42000;69000;-27000

@@ -1,10 +1,10 @@
 feature;similarity_type;mean;weight_old;weight_context_old;weight;weight_context
 wohnflaeche;numeric;83.64;0.279538905;0.243876999;0.32;0.32
-zimmer;numeric;2;0.071823204;0.064557129;0.05;0.02
+anz_zimmer;numeric;2;0.071823204;0.064557129;0.05;0.02
 grundstueckflaeche;numeric;580;0.347715736;0.301199378;0.21;0.11
-category;binary;-;0.025688073;0.016878256;0.04;0.02
-condition;numeric;1;0.020524515;0.017568898;0.05;0.06
-basement;numeric;2;0.019379845;0.017621856;0.03;0.01
-efficiency_rating;numeric;3;0.048494983;0.043508615;0.11;0.04
-year;numeric;34;0.186826347;0.164440391;0.18;0.11
+kategorie;binary;-;0.025688073;0.016878256;0.04;0.02
+zustand;numeric;1;0.020524515;0.017568898;0.05;0.06
+keller;numeric;2;0.019379845;0.017621856;0.03;0.01
+energieeffizienz;numeric;3;0.048494983;0.043508615;0.11;0.04
+baujahr;numeric;34;0.186826347;0.164440391;0.18;0.11
 kontextWert;numeric;750;0;0.130348477;0;0.3
